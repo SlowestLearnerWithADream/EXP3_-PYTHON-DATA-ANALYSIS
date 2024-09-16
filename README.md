@@ -25,3 +25,7 @@ Using the dataframe cars in problem 1, extract the following information using s
 3. How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
 4. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
+
+Submitted by: LLeyton Jeremy I. Bayodoc
+Section: 2ECE-A
+
